@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["scss/custom.scss"],"sourcesContent":[".btnform{\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n}\r\n"],"names":[],"version":3,"file":"index.1346fb5e.css.map","sourceRoot":"/__parcel_source_root/"}
